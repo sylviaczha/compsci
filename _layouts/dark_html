@@ -1,0 +1,6 @@
+---
+layout: page
+---
+<div style="background: black"; color: white; adding: 25px;">
+  {{ content }}
+</div>
